@@ -3,6 +3,7 @@ In this dashboard we used Excel and Power BI to analyze user behaviour and marke
 
 1. Power BI Questions:
           1. Ride Volume Over Time.
+   
           2. Booking Status Breakdown.
           3. Top 5 Vehicle Types by Ride Distance.
           4. Average Customer Ratings by Vehicle Type.
@@ -14,7 +15,7 @@ In this dashboard we used Excel and Power BI to analyze user behaviour and marke
          10. Customer vs. Driver Ratings.
  
 
-2. Segregation of the views:
+3. Segregation of the views:
      
           1. Overall :-  1. Ride Volume Over Time
                          2. Booking Status Breakdown
@@ -31,7 +32,7 @@ In this dashboard we used Excel and Power BI to analyze user behaviour and marke
                    
           5. Ratings :-  1. Driver Ratings
                          2. Customer Ratings
-3. Answers:
+4. Answers:
           1. Ride Volume Over Time: A time-series chart showing the number of rides per day/week.
           2. Booking Status Breakdown: A pie or doughnut chart displaying the proportion of different booking statuses (success, cancelled by the customer, cancelled by the 
                                          driver, etc.).
@@ -45,5 +46,5 @@ In this dashboard we used Excel and Power BI to analyze user behaviour and marke
          10. Customer vs. Driver Ratings: A scatter plot comparing customer and driver ratings for each completed ride, analyzing correlations.
 
 
-4. Screenshots/ Demo:-
+5. Screenshots/ Demo:-
         dashboard preview :- https://github.com/n9i3/OLA-Ride-dashboard/blob/main/dashboard.PNG
