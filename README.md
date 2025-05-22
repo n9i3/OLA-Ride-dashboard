@@ -50,4 +50,4 @@ In this dashboard we used Excel and Power BI to analyze user behaviour and marke
 
 7. Screenshots/ Demo:-
    show what the dashboard looks like. - ![Alt text](https://github.com/n9i3/OLA-Ride-dashboard/blob/main/dashboard.PNG)  
-        Example :- ![Dashboard Preview].(https://github.com/n9i3/OLA-Ride-dashboard/blob/main/dashboard.PNG)
+        
